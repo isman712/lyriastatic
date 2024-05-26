@@ -1,0 +1,438 @@
+{
+  "estudiantes": {
+    "1b": {
+      "data": {
+        "año": "1°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "10"
+      },
+      "Biologia": {
+        "id": 1,
+        "nombre": "Biología",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1j6VizQ4ei3cjJnqoccSYA20-xIW8cEHe/preview",
+        "favorito": false
+      },
+      "Ciudadania": {
+        "id": 2,
+        "nombre": "Educación para la ciudadanía",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1RRomfp62GkWVHdmwbPWNdy36Qsp1ya-a/preview",
+        "favorito": false
+      },
+      "Emprendimiento": {
+        "id": 3,
+        "nombre": "Emprendimiento y gestión",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1rx0uRQyf4Je3w8cU1E6mKaBwFG84tDf4/preview",
+        "favorito": false
+      },
+      "Filosofia": {
+        "id": 4,
+        "nombre": "Filosofía",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/16sMBDOr5zNh9EP4t_kJ3PsXrL9AoGy6D/preview",
+        "favorito": false
+      },
+      "Fisica": {
+        "id": 5,
+        "nombre": "Física",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1K9cjd2keIXqwUzsF_DpExKkzPNd-YWgj/preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 6,
+        "nombre": "Historia",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1B-OxiCHxxyMS5oFzQrl5h9mLA3E5yOvP/preview",
+        "favorito": false
+      },
+      "Ingles": {
+        "id": 7,
+        "nombre": "English",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1vicQ_9tTd5MdMPHGzZiTxJqcxz4sf9y5/preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 8,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1E5VLnsGnp5S2MrDTmCFcvQK2eObSLKNa/preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 9,
+        "nombre": "Matemáticas",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1JbNFjc1KGlaSKZdiVhljM2tNLLMbE3AO/preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 10,
+        "nombre": "Química",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d/1kyZk4eXsoyNH5bg9gY2bJDVJ_wMehk4c/preview",
+        "favorito": false
+      }
+    },
+    "2b": {
+      "data": {
+        "año": "2°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "10"
+      },
+      "Biologia": {
+        "id": 11,
+        "nombre": "Biología",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ciudadania": {
+        "id": 12,
+        "nombre": "Educación para la ciudadanía",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Emprendimiento": {
+        "id": 13,
+        "nombre": "Emprendimiento y gestión",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Filosofia": {
+        "id": 14,
+        "nombre": "Filosofía",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Fisica": {
+        "id": 15,
+        "nombre": "Física",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 16,
+        "nombre": "Historia",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ingles": {
+        "id": 17,
+        "nombre": "English",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 18,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 19,
+        "nombre": "Matemáticas",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 20,
+        "nombre": "Química",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      }
+    },
+    "3b": {
+      "data": {
+        "año": "3°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "11"
+      },
+      "Biologia": {
+        "id": 21,
+        "nombre": "Biología",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Emprendimiento": {
+        "id": 22,
+        "nombre": "Emprendimiento y gestión",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Fisica": {
+        "id": 23,
+        "nombre": "Física",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 24,
+        "nombre": "Historia",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ingles": {
+        "id": 25,
+        "nombre": "English",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "LecturaCritica": {
+        "id": 26,
+        "nombre": "Lectura crítica de mensajes",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 27,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 28,
+        "nombre": "Matemáticas",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "ProblemasDelMundo": {
+        "id": 29,
+        "nombre": "Problemas del mundo contemporáneo",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 30,
+        "nombre": "Química",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Sociologia": {
+        "id": 31,
+        "nombre": "Sociología",
+        "categoria": "Texto del estudiante",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      }
+    }
+  },
+  "profesores": {
+    "1b": {
+      "data": {
+        "año": "1°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "10"
+      },
+      "Biologia": {
+        "id": 32,
+        "nombre": "Biología",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ciudadania": {
+        "id": 33,
+        "nombre": "Educación para la ciudadanía",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Emprendimiento": {
+        "id": 34,
+        "nombre": "Emprendimiento y gestión",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Filosofia": {
+        "id": 35,
+        "nombre": "Filosofía",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Fisica": {
+        "id": 36,
+        "nombre": "Física",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 37,
+        "nombre": "Historia",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ingles": {
+        "id": 38,
+        "nombre": "English",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 39,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 40,
+        "nombre": "Matemáticas",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 41,
+        "nombre": "Química",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      }
+    },
+    "2b": {
+      "data": {
+        "año": "1°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "9"
+      },
+      "Biologia": {
+        "id": 42,
+        "nombre": "Biología",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ciudadania": {
+        "id": 43,
+        "nombre": "Educación para la ciudadanía",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Emprendimiento": {
+        "id": 44,
+        "nombre": "Emprendimiento y gestión",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Fisica-Quimica": {
+        "id": 45,
+        "nombre": "Física-Química",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 46,
+        "nombre": "Historia",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Ingles": {
+        "id": 47,
+        "nombre": "English",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 48,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 49,
+        "nombre": "Matemáticas",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 50,
+        "nombre": "Química",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      }
+    },
+    "3b": {
+      "data": {
+        "año": "1°",
+        "curso": "Bachillerato general unificado",
+        "curoa": "BGU",
+        "librosN": "5"
+      },
+      "Biologia": {
+        "id": 51,
+        "nombre": "Biología",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Historia": {
+        "id": 52,
+        "nombre": "Historia",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Lenguaje": {
+        "id": 53,
+        "nombre": "Lengua y Literatura",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Matematicas": {
+        "id": 54,
+        "nombre": "Matemáticas",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      },
+      "Quimica": {
+        "id": 55,
+        "nombre": "Química",
+        "categoria": "Guía del docente",
+        "link": "https://drive.google.com/file/d//preview",
+        "favorito": false
+      }
+    }
+  }
+}
